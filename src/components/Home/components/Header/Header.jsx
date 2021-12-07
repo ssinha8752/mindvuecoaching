@@ -18,7 +18,7 @@ class Header extends React.Component {
   render() {
     const { current } = this.state;
     return (
-      <Menu onClick={this.handleClick} selectedKeys={[current]} mode="horizontal" >
+      <Menu onClick={this.handleClick} selectedKeys={[current]} mode="horizontal" theme="light" >
         <Menu.Item key="Home" icon={<HomeOutlined />}></Menu.Item>
         <SubMenu key="AboutMe" icon={<UserOutlined />} title="About Me">
         <Menu.ItemGroup>
