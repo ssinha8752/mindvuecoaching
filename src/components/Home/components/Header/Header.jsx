@@ -29,7 +29,7 @@ class Header extends React.Component {
         </SubMenu>
         <SubMenu key="IlluminateMind" icon={<DribbbleOutlined />} title="Illuminate Mind">
           <Menu.ItemGroup>
-            <Menu.Item key="IlluminateMind:1">What is Coaching</Menu.Item>
+            <Menu.Item key="IlluminateMind:1">What is Coaching ?</Menu.Item>
             <Menu.Item key="IlluminateMind:2">NLP</Menu.Item>
             <Menu.Item key="IlluminateMind:3">Mindfulness</Menu.Item>
             <Menu.Item key="IlluminateMind:4">Cognitive Behavior</Menu.Item>
