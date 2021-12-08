@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import { Menu } from 'antd';
-import { FacebookFilled, FacebookOutlined, LinkedinFilled, LinkedinOutlined, TwitterOutlined, WhatsAppOutlined } from '@ant-design/icons';
+import { FacebookFilled, LinkedinFilled, TwitterOutlined, WhatsAppOutlined } from '@ant-design/icons';
 
 class Footer extends Component{
     render(){
