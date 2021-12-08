@@ -37,17 +37,15 @@ function Content(){
                     <p>{tile.value}</p>
                 </div>
                 <div className="card_pic">
-                    {console.log(tile.key)}
                     <img src={tile.pic} alt="" style={{width:"100%"}}/>
                 </div>
                 </div>:
                 <div className="tiles">
                 <div className="card_pic">
-                    {console.log(tile.key)}
                     <img src={tile.pic} alt="" style={{width:"100%"}}/>
                 </div>
                 <div className="card">
-                    <h2>{index}</h2>
+                    <h2>{tile.head}</h2>
                     <p>{tile.value}</p>
                 </div>
                 </div>
