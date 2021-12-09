@@ -1,0 +1,41 @@
+.testimonials .tiles{
+    display: flex;
+    justify-content: start;
+    margin: 30px;
+    padding: 20px;
+    margin-left: 150px;  
+  }
+  
+  .testimonials .tiles h2{
+      padding: 25px;
+      font-size: 3em;
+      color: white;
+      text-align: left;
+  }
+
+  .testimonials .tiles h1{
+    margin-top: -50px;
+    font-size: 1.2em;
+    padding: 0px 25px 0px 25px;
+    color: white;
+    text-align: left;
+}
+  
+  .testimonials .tiles p{
+      font-size: 1.2em;
+      text-align: justify;
+      margin: 10px;
+      padding: 30px;
+      color: white;
+  }
+  
+  .testimonials .card{
+      width: 800px;
+      height: 500px;
+      background-color: #242B2E;
+  }
+  
+  .testimonials .card_pic{
+      width: 800px;
+      height: 500px;
+  }

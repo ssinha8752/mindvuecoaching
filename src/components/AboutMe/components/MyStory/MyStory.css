@@ -1,0 +1,15 @@
+.mystory h2{
+        font-size: 3em;
+        color: #46B2E0;
+        font-style: italic;
+    }
+    
+.mystory h1{
+        font-size: 2.2em;
+    }
+    
+.mystory p{
+        font-size: 1.2em;
+        text-align: justify;
+        margin: 20px;
+    }   
