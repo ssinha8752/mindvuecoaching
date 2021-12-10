@@ -16,7 +16,7 @@ class Testimonials extends Component{
                 <h2>{testimonial.subheading}</h2>
                 <p>{testimonial.value}</p>
                 </div>
-                <img src={testimonial.pic} alt="" style={{width:"100%"}}/>
+                <img src={testimonial.pic} alt="" style={{width:"100%", border:"2px black solid"}}/>
                 </div>
             ))
           }
