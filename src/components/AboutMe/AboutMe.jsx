@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import MyStory from './components/MyStory/MyStory';
 import './AboutMe.css'
 import Testimonials from './components/Testimonials/Testimonials';
-import Associations from '../Assoications/Associations';
+import Associations from './components/Associations/Associations';
 
 class AboutMe extends Component{
     render(){
